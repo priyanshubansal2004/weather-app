@@ -1,8 +1,11 @@
-# React + Vite
+🌦️ Weather Application – MERN Stack Project (CodTech Internship) This Weather Application is a responsive web app built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It fetches and displays real-time weather data by integrating with the OpenWeatherMap API.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🔑 Features: 📍 Users can enter a city name to get current weather details like temperature, humidity, and weather conditions.
 
-Currently, two official plugins are available:
+🔄 Live API Integration with OpenWeatherMap ensures real-time updates.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+💻 Responsive Design: Works smoothly across desktop and mobile devices.
+
+🎯 Built as part of the CodTech Internship, with a certificate awarded upon successful project submission.
+
+![WhatsApp Image 2025-07-14 at 12 26 20_15fd1d91](https://github.com/user-attachments/assets/48ef6672-d484-4034-a804-a05b1cf79321)
